@@ -88,6 +88,8 @@ The system architecture of AARAV includes various modules interacting with each 
 
 - ## Contact
 If you have any questions or feedback, please contact:
+
 Email: [arankallesahil@outlook.com](mailto:arankallesahil@outlook.com)
+
 GitHub: [https://github.com/SahilArankalle](https://github.com/SahilArankalle)
 
