@@ -36,7 +36,6 @@ AARAV (Advanced Artificial Response And Voice) is a highly advanced, multifuncti
 1. **Clone the Repository**:
     ```bash
     git clone https://github.com/your-repo/AARAV.git
-    cd AARAV
     ```
 
 2. **Install Dependencies**:
