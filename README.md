@@ -11,6 +11,7 @@
 7. [Algorithms and Technologies Used](#algorithms-and-technologies-used)
 8. [Future Scope](#future-scope)
 9. [Contact](#contact)
+10. [Copyright](#copyright)
 
 ## Introduction
 AARAV (Advanced Artificial Response And Voice) is a highly advanced, multifunctional, and interdisciplinary personal/virtual assistant. It integrates various machine learning algorithms, APIs, automation tools, and web scrappers to assist end users with multiple activities including conversation, Windows automation, web scraping, social media interaction, home automation, and more. Inspired by virtual assistants like Siri, Cortana, and Bixby, AARAV offers advanced interactive features and functionalities to enhance user experience.
@@ -86,10 +87,14 @@ The system architecture of AARAV includes various modules interacting with each 
 - **Health Diagnosis**: Simple diagnosis based on user symptoms.
 - **Commercialization**: Explore user challenges and perspectives for commercialization.
 
-- ## Contact
+## Contact
 If you have any questions or feedback, please contact:
 
 Email: [arankallesahil@outlook.com](mailto:arankallesahil@outlook.com)
 
 GitHub: [https://github.com/SahilArankalle](https://github.com/SahilArankalle)
+
+## Copyright
+
+Link : [https://drive.google.com/file/d/1-_Cpalrj0vJmk_k82Cx8G704GxH-zQ4B/view?usp=drive_link](https://drive.google.com/file/d/1-_Cpalrj0vJmk_k82Cx8G704GxH-zQ4B/view?usp=drive_link)
 
