@@ -46,13 +46,9 @@ def send_email(sender_email, sender_password, recipent_email, subject, content):
     speak("Email Sent Successfully")
 
 recipent_mapping = {
-    "sahil" : "arankallesahil@gmail.com",
-    "shounak" : "shounaksanpurkar@gmail.com",
-    "loukik" : "loukiksancheti1928@gmail.com",
-    "siddharth" : "siddharthsurana2605@gmail.com"
+
 }
 
-sender_email = "arankallesahil@gmail.com"
-sender_password = "lsel orww ahof wkex"
+
 
 
